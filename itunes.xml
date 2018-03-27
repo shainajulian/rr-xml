@@ -336,16 +336,35 @@
             <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
             <title>S01 EP117 Brent Cobb</title>
             <itunes:author>Rocket Radio</itunes:author>
-            <itunes:subtitle>Amber Mark is a globally inspired singer and producer in a class of her own.</itunes:subtitle>
-            <itunes:summary>There aren’t many pop singers who can also produce their own music, let alone the globally-inspired pop on Amber Mark’s debut, <i>3:33 AM</i>, out now on PMR Interscope. With <i>3:33 AM</i>, she’s crafted an empowering and inspired collection of songs that have helped her cope with the loss of the most important person in her life. Her songs make you move, but they also make you think and feel. This is therapy in it’s most triumphant fashion. On this episode of Rocket Rising, we’ll talk to Amber about the path she’s taken to the brink of stardom and the music that’s brought her there.</itunes:summary>
-            <description>There aren’t many pop singers who can also produce their own music, let alone the globally-inspired pop on Amber Mark’s debut, <i>3:33 AM</i>, out now on PMR Interscope. With <i>3:33 AM</i>, she’s crafted an empowering and inspired collection of songs that have helped her cope with the loss of the most important person in her life. Her songs make you move, but they also make you think and feel. This is therapy in it’s most triumphant fashion. On this episode of Rocket Rising, we’ll talk to Amber about the path she’s taken to the brink of stardom and the music that’s brought her there.</description>
+            <itunes:subtitle>Known as the Redneck Paul Simon, Brent Cobb's sound is Americana meets the deep swamp.</itunes:subtitle>
+            <itunes:summary>Having achieved critical acclaim as a songwriter, Brent Cobb creates vivid images of moments in time using his unique gift of telling a story that is real, country living. His songs have been recorded and performed by Nashville elites including Luke Bryan, Kenny Chesney, Miranda Lambert, Little Big Town and Kellie Pickler. For more of Brent’s story, listen to today’s podcast.</itunes:summary>
+            <description>Having achieved critical acclaim as a songwriter, Brent Cobb creates vivid images of moments in time using his unique gift of telling a story that is real, country living. His songs have been recorded and performed by Nashville elites including Luke Bryan, Kenny Chesney, Miranda Lambert, Little Big Town and Kellie Pickler. For more of Brent’s story, listen to today’s podcast.</description>
             <content:encoded>
                 <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
             </content:encoded>
-            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_114_amber_mark.mp3"/>
-            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_114_amber_mark.mp3</guid>
-            <pubDate>MON, 26 Mar 2018 12:00:00 PST</pubDate>
-            <itunes:duration>13:02</itunes:duration>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-country/ep_116_brent_cobb.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-country/ep_116_brent_cobb.mp3</guid>
+            <pubDate>TUE, 27 Mar 2018 12:00:00 PST</pubDate>
+            <itunes:duration>11:06</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Mt. Joy</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>18</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP118 Mt. Joy</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Mt. Joy brings us the best of traditional folk rock that breathes dreams becoming a reality. </itunes:subtitle>
+            <itunes:summary>On today’s episode, we have a special live from SXSW chat with indie rock artists Mt. Joy. Now based in Los Angeles, lead vocalist and guitarist Matt Quinn and guitarist and singer Sam Cooper were born and raised outside of Philadelphia. On March 2nd, they released their highly anticipated self-titled debut album. With over 18 million digital streams, already having toured with artists like The Shins, Whitney, The Head And The Heart and The Lone Bellow, and performed at events like Newport Folk Festival, Bonnaroo, Made In America and Lollapalooza, Mt. Joy are well on their way.</itunes:summary>
+            <description>On today’s episode, we have a special live from SXSW chat with indie rock artists Mt. Joy. Now based in Los Angeles, lead vocalist and guitarist Matt Quinn and guitarist and singer Sam Cooper were born and raised outside of Philadelphia. On March 2nd, they released their highly anticipated self-titled debut album. With over 18 million digital streams, already having toured with artists like The Shins, Whitney, The Head And The Heart and The Lone Bellow, and performed at events like Newport Folk Festival, Bonnaroo, Made In America and Lollapalooza, Mt. Joy are well on their way.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_117_mt.joy.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_117_mt.joy.mp3</guid>
+            <pubDate>WED, 28 Mar 2018 12:00:00 PST</pubDate>
+            <itunes:duration>13:43</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
         </channel>
