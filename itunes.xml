@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Rocket Radio</title>
+        <link>http://rocketradio.com</link>
+        <language>en-us</language>
+        <copyright>&#8471; &amp; &#xA9; 2018 Rocket Radio</copyright>
+        <itunes:subtitle>Rocket Radio Music Network | Tomorrow's Sounds Today</itunes:subtitle>
+        <itunes:author>Rocket Radio</itunes:author>
+        <itunes:summary>Rocket Radio Music Network | Tomorrow's Sounds Today</itunes:summary>
+        <description>Rocket Radio Music Network | Tomorrow's Sounds Today</description>
+        <itunes:owner>
+            <itunes:name>Rocket Radio</itunes:name>
+            <itunes:email>shaina@rocketradio.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+        <itunes:category text="Music"/>
+        <itunes:explicit>no</itunes:explicit>
+
+        <item>
+            <itunes:title>Rocket Radio Preview</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP101 Rocket Radio Preview</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Rocket Radio. Hear tomorrow's sounds today.</itunes:subtitle>
+            <itunes:summary>Rocket Radio. Hear tomorrow's sounds today.</itunes:summary>
+            <description>Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rss/Rocket+Radio+Preview.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rss/Rocket+Radio+Preview.mp3</guid>
+            <pubDate>Tues, 06 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>01:38</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+
+        <item>
+            <itunes:title>Sofi Tukker</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP102 Sofi Tukker</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>This duo has found a modern take on Bossa Nova music that is taking the world by storm.</itunes:subtitle>
+            <itunes:summary>Grammy-nominated Jungle-Pop artists Sofi Tukker are one of today’s fastest rising acts who've been steadily blowing up the charts. On this episode of Rocket Rising, we talk with the New York-based duo about their unique songwriting habits, landing a coveted feature on the iPhone X commercial and more.</itunes:summary>
+            <description>Grammy-nominated Jungle-Pop artists Sofi Tukker are one of today’s fastest rising acts who've been steadily blowing up the charts. On this episode of Rocket Rising, we talk with the New York-based duo about their unique songwriting habits, landing a coveted feature on the iPhone X commercial and more.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_101_sofi_tukker+(1).mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_101_sofi_tukker+(1).mp3</guid>
+            <pubDate>Mon, 12 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>21:49</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+
+          <item>
+            <itunes:title>Brothers Osborne</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP103 Brothers Osborne</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Brothers Osborne have taken the humble path to creating geniune country music that can't be matched.</itunes:subtitle>
+            <itunes:summary>Brothers Osborne have been lighting up the CMA's and ACM's over the past few years getting people up on their feet with their amazing performances. The brothers have taken home multiple awards, played the Grammy's and are now headlining their own world tour. Their sophomore album, Port St. Joe, comes out on April 20th – and it's like nothing we've heard before. On this episode of Rocket Outlaw, David Sikorski chats with TJ Osborne about their journey to Port St. Joe and what's to come.</itunes:summary>
+            <description>Brothers Osborne have been lighting up the CMA's and ACM's over the past few years getting people up on their feet with their amazing performances. The brothers have taken home multiple awards, played the Grammy's and are now headlining their own world tour. Their sophomore album, Port St. Joe, comes out on April 20th – and it's like nothing we've heard before. On this episode of Rocket Outlaw, David Sikorski chats with TJ Osborne about their journey to Port St. Joe and what's to come.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-outlaw/ep_101_brothers_osborne_outlaw.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-outlaw/ep_101_brothers_osborne_outlaw.mp3</guid>
+            <pubDate>Mon, 12 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>26:50</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+
+        <item>
+            <itunes:title>Ron Pope</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP104 Ron Pope</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Ron Pope has made a name for himself built in emotional relatability and honest experience.</itunes:subtitle>
+            <itunes:summary>In the world of music, creativity is just one piece of the puzzle. To get your songs heard by the world, it takes dedication and it takes work. This steadfast path is nothing new to Ron Pope, a Nashville based singer songwriter who has spent years honing his craft and is now reaping the fruits of his labor. From his stint on the show Nashville and having his songs featured on other TV shows too, we learn that staying true to yourself grants the biggest rewards. On this episode of Country Rising, Mary Hughes talks to Ron Pope about what it takes to be a player in the music business, his new EP Worktapes and more</itunes:summary>
+            <description>In the world of music, creativity is just one piece of the puzzle. To get your songs heard by the world, it takes dedication and it takes work. This steadfast path is nothing new to Ron Pope, a Nashville based singer songwriter who has spent years honing his craft and is now reaping the fruits of his labor. From his stint on the show Nashville and having his songs featured on other TV shows too, we learn that staying true to yourself grants the biggest rewards. On this episode of Country Rising, Mary Hughes talks to Ron Pope about what it takes to be a player in the music business, his new EP Worktapes and more.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/country-rising/ep_101_ron_pope.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/country-rising/ep_101_ron_pope.mp3</guid>
+            <pubDate>Mon, 12 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>20:38</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+
+        <item>
+            <itunes:title>Duckwrth</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP105 Duckwrth</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>L.A. based rapper DUCKWRTH brings the XTRA UUGLY.</itunes:subtitle>
+            <itunes:summary>Sometimes, just going for it and being yourself is the best way to stand out in today's crowded musical landscape. Duckwrth is exactly that. A rapper who embraces the self-proclaimed genre he calls "funk wave," blending hip-hop, funk, punk and a little bit of rock and roll checks in on this episode of Rocket Urban. Listen in as Duckwrth talks with host, Adrian Spinelli about his latest XTRA UGGLY Mixtape and what it takes to be all over the map, but wholly present at all times.</itunes:summary>
+            <description>Sometimes, just going for it and being yourself is the best way to stand out in today's crowded musical landscape. Duckwrth is exactly that. A rapper who embraces the self-proclaimed genre he calls "funk wave," blending hip-hop, funk, punk and a little bit of rock and roll checks in on this episode of Rocket Urban. Listen in as Duckwrth talks with host, Adrian Spinelli about his latest XTRA UGGLY Mixtape and what it takes to be all over the map, but wholly present at all times.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-urban/ep_101_duckwrth_urban.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-urban/ep_101_duckwrth_urban.mp3</guid>
+            <pubDate>Mon, 12 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>20:26</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+
+        <item>
+            <itunes:title>Rocket Newscast 3/12</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP106 Rocket News</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Rocket Radio. Hear tomorrow's sounds today.</itunes:subtitle>
+            <itunes:summary>The Latest Rocket Radio Music and Entertainment Newscast March 12, 2018</itunes:summary>
+            <description>The Latest Rocket Radio Music and Entertainment Newscast March 12, 2018</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-news/03_12_18_rocket_news_08.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-news/03_12_18_rocket_news_08.mp3</guid>
+            <pubDate>Mon, 12 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>05:27</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <itunes:title>Greta Van Fleet</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP107 Greta Van Fleet</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>The next generation of classic rock has arrived and it’s being led by Greta Van Fleet.</itunes:subtitle>
+            <itunes:summary>Since the days of Sabbath and Zeppelin, the world has been waiting for a group of young rock revolutionaries to hit the airwaves again. Following a sold out tour for their EP, From The Fires, the young Michigan rockers known as Greta Van Fleet bring with them a down and dirty bluesy rock sound with Robert Plant-like vocals that are taking over the rock music scene. On this episode of Rocket Rising, we talk with Sam Kiszka and Danny Wagner of Greta Van Fleet about the band's beginnings, their influences, and what is coming next for the boys bringing classic rock back to the main stage.</itunes:summary>
+            <description>Since the days of Sabbath and Zeppelin, the world has been waiting for a group of young rock revolutionaries to hit the airwaves again. Following a sold out tour for their EP, From The Fires, the young Michigan rockers known as Greta Van Fleet bring with them a down and dirty bluesy rock sound with Robert Plant-like vocals that are taking over the rock music scene. On this episode of Rocket Rising, we talk with Sam Kiszka and Danny Wagner of Greta Van Fleet about the band's beginnings, their influences, and what is coming next for the boys bringing classic rock back to the main stage.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_102_greta_van_fleet.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_102_greta_van_fleet.mp3</guid>
+            <pubDate>WED, 14 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>18:07</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Xavier Omär</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP108 Xavier Omär</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Soulful and insightful, Xavier Omär is on the forefront of the latest wave of modern R&amp;B.</itunes:subtitle>
+            <itunes:summary>From performing at local open mics to becoming Lollapalooza's most buzzed about artist, Xavier Omär brings a tender-heartedness with his music that strikes a chord with all who hear it. The R&amp;B singer has also gained notoriety for combating the underlying misogynistic influences that the genre has been known to have in the past. On this episode of 'Rocket Rising', Xavier Omär chats about supporting his local San Antonio music scene, his latest works and the importance of maintaining authenticity within music.</itunes:summary>
+            <description>From performing at local open mics to becoming Lollapalooza's most buzzed about artist, Xavier Omär brings a tender-heartedness with his music that strikes a chord with all who hear it. The R&amp;B singer has also gained notoriety for combating the underlying misogynistic influences that the genre has been known to have in the past. On this episode of 'Rocket Rising', Xavier Omär chats about supporting his local San Antonio music scene, his latest works and the importance of maintaining authenticity within music.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_103_xavier_omar.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_103_xavier_omar.mp3</guid>
+            <pubDate>FRI, 16 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>16:26</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>VÉRITÉ</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP109 VÉRITÉ</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Ethereal pop finds a home in VÉRITÉ.</itunes:subtitle>
+            <itunes:summary>Following the release of several EP's, a debut full length album, and a cover of The 1975's "Somebody Else", with more than 85 million digital plays, the New York-based alternative-pop artist known as VÉRITÉ is quickly becoming a fan favorite. With humble beginnings as a waitress in Times Square, VÉRITÉ is now reaping the rewards of her relentless passion for music as she continues climbing the charts. On this episode of Rocket Rising, the rising songstress opens up about the hurdles of breaking into today’s music industry and what it means to be an independent artist.</itunes:summary>
+            <description>Following the release of several EP's, a debut full length album, and a cover of The 1975's "Somebody Else", with more than 85 million digital plays, the New York-based alternative-pop artist known as VÉRITÉ is quickly becoming a fan favorite. With humble beginnings as a waitress in Times Square, VÉRITÉ is now reaping the rewards of her relentless passion for music as she continues climbing the charts. On this episode of Rocket Rising, the rising songstress opens up about the hurdles of breaking into today’s music industry and what it means to be an independent artist.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_105_ve__rite__.mp3"/>
+            <guid>http://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_105_ve__rite__.mp3</guid>
+            <pubDate>MON, 19 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>16:37</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Michaela Anne</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP110 Michaela Anne</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>With Brooklyn roots and a Nashville soul, Michaela Anne creates introspective and personal Americana music.</itunes:subtitle>
+            <itunes:summary>On this episode of Rocket Country, we're featuring Michaela Anne. She is a Nashville based singer-songwriter, who doesn't shy away from the shifting tides of being an artist. Michaela's music ranges from the introspective and the personal, to the two stepping tunes that get boots on the dance floor. She allows her music to grow out of all her experiences, both fun and heartfelt. We talk to Michaela about her album, her musical childhood, and her west coast journey on the horizon.</itunes:summary>
+            <description>On this episode of Rocket Country, we're featuring Michaela Anne. She is a Nashville based singer-songwriter, who doesn't shy away from the shifting tides of being an artist. Michaela's music ranges from the introspective and the personal, to the two stepping tunes that get boots on the dance floor. She allows her music to grow out of all her experiences, both fun and heartfelt. We talk to Michaela about her album, her musical childhood, and her west coast journey on the horizon.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/country-rising/ep_102_michaela_anne.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/country-rising/ep_102_michaela_anne.mp3</guid>
+            <pubDate>TUE, 20 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>19:34</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Tall Heights</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP111 Tall Heights</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>With rich progressive folk sounds, Tall Heights are harmonizing their way to the top.</itunes:subtitle>
+            <itunes:summary>Tim Harrington and Paul Wright are no strangers to pounding the pavement in the name of creating authentic and earnest folk music. Now, Tall Heights are being heard beyond Boston and critical acclaim is starting to follow them around, too. On this episode of Rocket Rising, we sit down to chat with Tall Heights about the beginning as street performers in Boston to getting signed with Sony Music, their touring experience with Ben Folds, and pushing themselves to explore new sounds.</itunes:summary>
+            <description>Tim Harrington and Paul Wright are no strangers to pounding the pavement in the name of creating authentic and earnest folk music. Now, Tall Heights are being heard beyond Boston and critical acclaim is starting to follow them around, too. On this episode of Rocket Rising, we sit down to chat with Tall Heights about the beginning as street performers in Boston to getting signed with Sony Music, their touring experience with Ben Folds, and pushing themselves to explore new sounds.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_105_tall_heights.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_105_tall_heights.mp3</guid>
+            <pubDate>WED, 21 Mar 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>10:47</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Frank Foster</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>12</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP112 Frank Foster</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Independent outlaw country artist, Frank Foster, stays true to himself, his music and most importantly, his fans.</itunes:subtitle>
+            <itunes:summary>Growing up in a small town in rural Louisiana, Frank Foster learned the value of self reliance. Frank chose to remain independent and follow his own dreams for a music career. In today’s episode, you’ll hear the reasons for his decision and learn about the success he's found in Outlaw Country music.</itunes:summary>
+            <description>Growing up in a small town in rural Louisiana, Frank Foster learned the value of self reliance. Frank chose to remain independent and follow his own dreams for a music career. In today’s episode, you’ll hear the reasons for his decision and learn about the success he's found in Outlaw Country music.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-outlaw/Ep+102_Frank+Foster.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-outlaw/Ep+102_Frank+Foster.mp3</guid>
+            <pubDate>THU, 22 Mar 2018 12:00:00 PST</pubDate>
+            <itunes:duration>18:19</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>NoMBe</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP113 NoMBe</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>NoMBe is the new face of electric soul we've all been waiting for.</itunes:subtitle>
+            <itunes:summary>Noah MacBeth, originally from Germany, has been making music since he was 15. He’s since  made moves between Miami, New York, Montreal and is now based in LA. In the last year, he’s gained more than 120 million digital streams and countless praise from music sites everywhere. His debut album <i>They Might’ve Even Loved Me</i> just came out, and we chat with Noah about his storytelling and how he uses his platform to fight against gender inequality.</itunes:summary>
+            <description>Noah MacBeth, originally from Germany, has been making music since he was 15. He’s since  made moves between Miami, New York, Montreal and is now based in LA. In the last year, he’s gained more than 120 million digital streams and countless praise from music sites everywhere. His debut album <i>They Might’ve Even Loved Me</i> just came out, and we chat with Noah about his storytelling and how he uses his platform to fight against gender inequality.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_106_nombe.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_106_nombe.mp3</guid>
+            <pubDate>FRI, 23 Mar 2018 01:00:00 PST</pubDate>
+            <itunes:duration>14:12</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>STS</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>14</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP114 STS</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Atlanta Native and Philadelphia based Poet/Rapper STS takes you from the come up to his latest release.</itunes:subtitle>
+            <itunes:summary>On this episode of Rocket Urban, we’re featuring STS aka Sugar Tounge Slim. He’s a rapper and poet originally from Atlanta and now based in Philly. Slim has been rocking the mic for a minute and  has worked with artists like Dj Jazzy Jeff, The Roots, RJD2 and Dre &amp; Vidal. Adrian Spinelli talks to STS about his come up, his collaborative project with producer Khari Mateen called <i>Better on a Sunday</i>, and much more.</itunes:summary>
+            <description>On this episode of Rocket Urban, we’re featuring STS aka Sugar Tounge Slim. He’s a rapper and poet originally from Atlanta and now based in Philly. Slim has been rocking the mic for a minute and  has worked with artists like Dj Jazzy Jeff, The Roots, RJD2 and Dre &amp; Vidal. Adrian Spinelli talks to STS about his come up, his collaborative project with producer Khari Mateen called <i>Better on a Sunday</i>, and much more.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-urban/Ep+102_STS.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-urban/Ep+102_STS.mp3</guid>
+            <pubDate>FRI, 23 Mar 2018 01:00:00 PST</pubDate>
+            <itunes:duration>15:29</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Rocket Newscast 3/23</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>15</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP115 Rocket News</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>This week on Rocket News, David and Adrian chat about new music releases including NoMBe and Jack White, review their SXSW experiences, and tell us what's to come on Rocket Radio this week.</itunes:subtitle>
+            <itunes:summary>The Latest Rocket Radio Music and Entertainment Newscast March 23, 2018</itunes:summary>
+            <description>The Latest Rocket Radio Music and Entertainment Newscast March 23, 2018</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-news/03_23_18_Rocket_News.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-news/03_23_18_Rocket_News.mp3</guid>
+            <pubDate>FRI, 23 Mar 2018 5:00:00 PST</pubDate>
+            <itunes:duration>05:58</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Amber Mark</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>16</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP116 Amber Mark</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Amber Mark is a globally inspired singer and producer in a class of her own.</itunes:subtitle>
+            <itunes:summary>There aren’t many pop singers who can also produce their own music, let alone the globally-inspired pop on Amber Mark’s debut, <i>3:33 AM</i>, out now on PMR Interscope. With <i>3:33 AM</i>, she’s crafted an empowering and inspired collection of songs that have helped her cope with the loss of the most important person in her life. Her songs make you move, but they also make you think and feel. This is therapy in it’s most triumphant fashion. On this episode of Rocket Rising, we’ll talk to Amber about the path she’s taken to the brink of stardom and the music that’s brought her there.</itunes:summary>
+            <description>There aren’t many pop singers who can also produce their own music, let alone the globally-inspired pop on Amber Mark’s debut, <i>3:33 AM</i>, out now on PMR Interscope. With <i>3:33 AM</i>, she’s crafted an empowering and inspired collection of songs that have helped her cope with the loss of the most important person in her life. Her songs make you move, but they also make you think and feel. This is therapy in it’s most triumphant fashion. On this episode of Rocket Rising, we’ll talk to Amber about the path she’s taken to the brink of stardom and the music that’s brought her there.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_114_amber_mark.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_114_amber_mark.mp3</guid>
+            <pubDate>MON, 26 Mar 2018 12:00:00 PST</pubDate>
+            <itunes:duration>13:02</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <itunes:title>Brent Cobb</itunes:title>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>17</itunes:episode>
+            <itunes:image href="http://cosmic-s3.imgix.net/408b4cb0-28b6-11e8-a8aa-eb36489a1edb-rocketradionetwork_logo_1400x1400_1_1024.jpg"/>
+            <title>S01 EP117 Brent Cobb</title>
+            <itunes:author>Rocket Radio</itunes:author>
+            <itunes:subtitle>Amber Mark is a globally inspired singer and producer in a class of her own.</itunes:subtitle>
+            <itunes:summary>There aren’t many pop singers who can also produce their own music, let alone the globally-inspired pop on Amber Mark’s debut, <i>3:33 AM</i>, out now on PMR Interscope. With <i>3:33 AM</i>, she’s crafted an empowering and inspired collection of songs that have helped her cope with the loss of the most important person in her life. Her songs make you move, but they also make you think and feel. This is therapy in it’s most triumphant fashion. On this episode of Rocket Rising, we’ll talk to Amber about the path she’s taken to the brink of stardom and the music that’s brought her there.</itunes:summary>
+            <description>There aren’t many pop singers who can also produce their own music, let alone the globally-inspired pop on Amber Mark’s debut, <i>3:33 AM</i>, out now on PMR Interscope. With <i>3:33 AM</i>, she’s crafted an empowering and inspired collection of songs that have helped her cope with the loss of the most important person in her life. Her songs make you move, but they also make you think and feel. This is therapy in it’s most triumphant fashion. On this episode of Rocket Rising, we’ll talk to Amber about the path she’s taken to the brink of stardom and the music that’s brought her there.</description>
+            <content:encoded>
+                <![CDATA[Rocket Radio is a brand new podcast featuring exclusive interviews with emerging artists from around the globe. Listen on <a href="http://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.
+            </content:encoded>
+            <enclosure length="498537" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_114_amber_mark.mp3"/>
+            <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_114_amber_mark.mp3</guid>
+            <pubDate>MON, 26 Mar 2018 12:00:00 PST</pubDate>
+            <itunes:duration>13:02</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        </channel>
+</rss>
