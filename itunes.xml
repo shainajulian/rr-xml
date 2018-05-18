@@ -346,6 +346,7 @@
             <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-country/ep_116_brent_cobb.mp3</guid>
             <pubDate>TUE, 27 Mar 2018 12:00:00 PST</pubDate>
             <itunes:duration>11:06</itunes:duration>
+<<<<<<< HEAD
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
@@ -365,6 +366,8 @@
             <guid>https://s3.us-east-2.amazonaws.com/rocket-radio-media-assets/rocket-rising/ep_117_mt.joy.mp3</guid>
             <pubDate>WED, 28 Mar 2018 12:00:00 PST</pubDate>
             <itunes:duration>13:43</itunes:duration>
+=======
+>>>>>>> d73f0bfb2336a9196130d501885a40a08f77cf23
             <itunes:explicit>no</itunes:explicit>
         </item>
         </channel>
